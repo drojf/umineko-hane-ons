@@ -1,0 +1,6 @@
+mkdir "output"
+mkdir "output\[07th-Mod]"
+mkdir "output\[AM] Umineko Hane English"
+copy "..\0.txt" "output\[07th-Mod]\0.txt"
+copy "..\modified_scripts\ars_magica_english.txt" "output\[AM] Umineko Hane English\0.txt"
+copy "..\modified_scripts\japanese.txt" "output\0.txt"
